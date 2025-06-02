@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Project context files
+project_context.txt
+prompt.instructions.md
+
+*.gitignore
+
+
+
+

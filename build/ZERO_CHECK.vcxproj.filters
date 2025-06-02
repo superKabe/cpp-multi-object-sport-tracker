@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\cpp-multi-object-sport-tracker\build\CMakeFiles\944163f700690459ba05a87ebcc0f381\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E79BA21E-D7F7-37FA-B33B-2C150EAC882E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

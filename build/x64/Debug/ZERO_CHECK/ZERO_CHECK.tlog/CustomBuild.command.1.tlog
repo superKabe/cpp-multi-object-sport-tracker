@@ -1,0 +1,10 @@
+^D:\PROJECTS\CPP-MULTI-OBJECT-SPORT-TRACKER\BUILD\CMAKEFILES\944163F700690459BA05A87EBCC0F381\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SD:/Projects/cpp-multi-object-sport-tracker -BD:/Projects/cpp-multi-object-sport-tracker/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Projects/cpp-multi-object-sport-tracker/build/SurferTracker.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

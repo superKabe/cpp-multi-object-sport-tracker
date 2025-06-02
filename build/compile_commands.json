@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/Projects/cpp-multi-object-sport-tracker/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SurferTracker.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SurferTracker.dir\\main.cpp.obj -c D:\\Projects\\cpp-multi-object-sport-tracker\\main.cpp",
+  "file": "D:/Projects/cpp-multi-object-sport-tracker/main.cpp",
+  "output": "CMakeFiles/SurferTracker.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Projects/cpp-multi-object-sport-tracker/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SurferTracker.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SurferTracker.dir\\detector.cpp.obj -c D:\\Projects\\cpp-multi-object-sport-tracker\\detector.cpp",
+  "file": "D:/Projects/cpp-multi-object-sport-tracker/detector.cpp",
+  "output": "CMakeFiles/SurferTracker.dir/detector.cpp.obj"
+},
+{
+  "directory": "D:/Projects/cpp-multi-object-sport-tracker/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SurferTracker.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SurferTracker.dir\\tracker.cpp.obj -c D:\\Projects\\cpp-multi-object-sport-tracker\\tracker.cpp",
+  "file": "D:/Projects/cpp-multi-object-sport-tracker/tracker.cpp",
+  "output": "CMakeFiles/SurferTracker.dir/tracker.cpp.obj"
+},
+{
+  "directory": "D:/Projects/cpp-multi-object-sport-tracker/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SurferTracker.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SurferTracker.dir\\predictor.cpp.obj -c D:\\Projects\\cpp-multi-object-sport-tracker\\predictor.cpp",
+  "file": "D:/Projects/cpp-multi-object-sport-tracker/predictor.cpp",
+  "output": "CMakeFiles/SurferTracker.dir/predictor.cpp.obj"
+},
+{
+  "directory": "D:/Projects/cpp-multi-object-sport-tracker/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SurferTracker.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SurferTracker.dir\\visualizer.cpp.obj -c D:\\Projects\\cpp-multi-object-sport-tracker\\visualizer.cpp",
+  "file": "D:/Projects/cpp-multi-object-sport-tracker/visualizer.cpp",
+  "output": "CMakeFiles/SurferTracker.dir/visualizer.cpp.obj"
+}
+]
