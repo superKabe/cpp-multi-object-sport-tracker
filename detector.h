@@ -5,8 +5,9 @@
 #include <vector>
 
 struct Detection {
-    cv::Rect box;
-    float confidence;
+    float x, y; // Detection center coordinates
+    cv::Rect boundingBox; // Detection bounding box
+    float confidence; // Detection confidence score
 };
 
 class Detector {
